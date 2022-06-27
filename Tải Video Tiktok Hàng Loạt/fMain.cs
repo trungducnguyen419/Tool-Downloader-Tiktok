@@ -56,7 +56,7 @@ namespace Tải_Video_Tiktok_Hàng_Loạt
                                     request.UserAgent = "TrungDucNguyen";
                                     response = (HttpWebResponse)request.GetResponse();
                                     responseString = new StreamReader(response.GetResponseStream()).ReadToEnd();
-                                    string mp4 = Regex.Match(responseString.Replace(" ", ""), "\"mp4\":\"(.*?)\"").Groups[1].Value;
+                                    string mp4 = Regex.Match(responseString.Replace(" ", ""), "\"nowatermark\":\"(.*?)\"").Groups[1].Value;
                                     Uri uri = new Uri(mp4);
                                     string filename = System.IO.Path.GetFileName(uri.LocalPath);
                                     new WebClient().DownloadFile(mp4, Application.StartupPath + "\\video\\" + id + ".mp4");
