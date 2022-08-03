@@ -1,4 +1,4 @@
-# Tool-Downloader-Tiktok
+# Tool Downloader Tiktok
 Công cụ tải hàng loạt video từ tiktok theo liên kết không bị dính logo của tiktok.
 ### Các liên kết hỗ trợ
 - tiktok.com
