@@ -20,3 +20,13 @@ C:\Users\Admin\Desktop\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Lo�
 C:\Users\Admin\Desktop\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.exe
 C:\Users\Admin\Desktop\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.pdb
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\bin\Debug\Tải Video Tiktok Hàng Loạt.exe.config
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\bin\Debug\Tải Video Tiktok Hàng Loạt.exe
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\bin\Debug\Tải Video Tiktok Hàng Loạt.pdb
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.csproj.AssemblyReference.cache
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải_Video_Tiktok_Hàng_Loạt.fMain.resources
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải_Video_Tiktok_Hàng_Loạt.Properties.Resources.resources
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.csproj.GenerateResource.cache
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.exe
+C:\Users\Duc\Downloads\Tool-Downloader-Tiktok-main\Tool-Downloader-Tiktok-main\Tải Video Tiktok Hàng Loạt\obj\Debug\Tải Video Tiktok Hàng Loạt.pdb
